@@ -110,19 +110,12 @@
 	"glue" : 
 	[
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-cities-cz@3", "melown-benatky-nad-jizerou" ],
 			"lodRange" : [ 18, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 70930, 44284 ],
@@ -130,19 +123,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-cities-cz@3", "melown-cesky-krumlov@2" ],
 			"lodRange" : [ 16, 23 ],
-			"meshUrl" : "../../../stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 17685, 11275 ],
@@ -150,19 +136,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-cities-cz@3", "melown-landmarks" ],
 			"lodRange" : [ 18, 24 ],
-			"meshUrl" : "../../../stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 70739, 44284 ],
@@ -170,19 +149,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-ev2@2", "melown-benatky-nad-jizerou" ],
 			"lodRange" : [ 18, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 70930, 44284 ],
@@ -190,19 +162,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-ev2@2", "melown-cesky-krumlov@2" ],
 			"lodRange" : [ 17, 23 ],
-			"meshUrl" : "../../../stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 35371, 22551 ],
@@ -210,19 +175,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-ev2@2", "melown-cities-cz@3" ],
 			"lodRange" : [ 16, 21 ],
-			"meshUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 17506, 10972 ],
@@ -230,19 +188,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-ev2@2", "melown-cities-cz@3", "melown-benatky-nad-jizerou" ],
 			"lodRange" : [ 21, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 567447, 354303 ],
@@ -250,19 +201,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-ev2@2", "melown-cities-cz@3", "melown-landmarks" ],
 			"lodRange" : [ 19, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 141478, 88575 ],
@@ -270,19 +214,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-ev2@2", "melown-landmarks" ],
 			"lodRange" : [ 16, 24 ],
-			"meshUrl" : "../../../stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 17646, 10980 ],
@@ -290,19 +227,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-ev2@2", "obec-tetin-obec-tetin" ],
 			"lodRange" : [ 18, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-ev2@2_obec-tetin-obec-tetin/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 70666, 44478 ],
@@ -310,19 +240,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-viewfinder-1-arc-sec", "melown-cities-cz@3" ],
 			"lodRange" : [ 10, 10 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 282, 173 ],
@@ -330,19 +253,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-viewfinder-1-arc-sec", "melown-ev2@2" ],
 			"lodRange" : [ 10, 10 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-ev2@2/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 282, 173 ],
@@ -350,19 +266,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : [ "melown-viewfinder-1-arc-sec", "melown-imst" ],
 			"lodRange" : [ 15, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-1-arc-sec_melown-imst/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 8680, 5745 ],
@@ -370,19 +279,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-viewfinder-world", "esri-montreal" ],
 			"lodRange" : [ 13, 21 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_esri-montreal/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 1210, 1464 ],
@@ -390,19 +292,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-benatky-nad-jizerou" ],
 			"lodRange" : [ 18, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 70930, 44284 ],
@@ -410,19 +305,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-cesky-krumlov@2" ],
 			"lodRange" : [ 16, 23 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 17685, 11275 ],
@@ -430,19 +318,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-cities-cz@3" ],
 			"lodRange" : [ 15, 21 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 8753, 5486 ],
@@ -450,13 +331,6 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : 
 			[
 				"melown-viewfinder-world",
@@ -464,10 +338,10 @@
 				"melown-benatky-nad-jizerou"
 			],
 			"lodRange" : [ 21, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 567447, 354303 ],
@@ -475,19 +349,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-cities-cz@3", "melown-landmarks" ],
 			"lodRange" : [ 19, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-cities-cz@3_melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 141478, 88575 ],
@@ -495,19 +362,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-ev2@2" ],
 			"lodRange" : [ 16, 21 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 17480, 10957 ],
@@ -515,19 +375,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-ev2@2", "melown-cities-cz@3" ],
 			"lodRange" : [ 16, 21 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2_melown-cities-cz@3/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 17507, 10973 ],
@@ -535,19 +388,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-ev2@2", "melown-landmarks" ],
 			"lodRange" : [ 21, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-ev2@2_melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 567643, 351391 ],
@@ -555,19 +401,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-imst" ],
 			"lodRange" : [ 15, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-imst/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 8680, 5745 ],
@@ -575,19 +414,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-jerusalem" ],
 			"lodRange" : [ 18, 23 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-jerusalem/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 78360, 53319 ],
@@ -595,19 +427,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/world_landmarks/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/glues/world_landmarks/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/glues/world_landmarks/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/glues/world_landmarks/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-landmarks" ],
 			"lodRange" : [ 16, 24 ],
-			"meshUrl" : "../../../stage/glues/world_landmarks/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/glues/world_landmarks/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/glues/world_landmarks/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/glues/world_landmarks/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/world_landmarks/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/world_landmarks/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/world_landmarks/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/world_landmarks/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 17646, 10980 ],
@@ -615,19 +440,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-treasure-island" ],
 			"lodRange" : [ 18, 23 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-treasure-island/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 20978, 50635 ],
@@ -635,19 +453,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : [ "melown-viewfinder-world", "melown-viewfinder-1-arc-sec" ],
 			"lodRange" : [ 6, 21 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_melown-viewfinder-1-arc-sec/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 15, 6 ],
@@ -655,19 +466,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : [ "melown-viewfinder-world", "obec-tetin-obec-tetin" ],
 			"lodRange" : [ 18, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_obec-tetin-obec-tetin/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 70666, 44478 ],
@@ -675,19 +479,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-viewfinder-world", "san-diego-sample@1" ],
 			"lodRange" : [ 15, 22 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_san-diego-sample@1/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 2859, 6614 ],
@@ -695,19 +492,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : [ "melown-viewfinder-world", "seattle-compressed" ],
 			"lodRange" : [ 13, 23 ],
-			"meshUrl" : "../../../stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/glues/melown-viewfinder-world_seattle-compressed/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 655, 1430 ],
@@ -907,13 +697,6 @@
 	"surfaces" : 
 	[
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "//cdn.melown.com/vts/melown2015/terrain/global/viewfinder3/{lod}-{x}-{y}.credits?3",
-				"maskUrl" : "//cdn.melown.com/vts/melown2015/terrain/global/viewfinder3/{lod}-{x}-{y}.mask?3",
-				"metaUrl" : "//cdn.melown.com/vts/melown2015/terrain/global/viewfinder3/{lod}-{x}-{y}.2dmeta?3",
-				"orthoUrl" : "//cdn.melown.com/vts/melown2015/terrain/global/viewfinder3/{lod}-{x}-{y}-{sub}.ortho?3"
-			},
 			"id" : "melown-viewfinder-world",
 			"lodRange" : [ 1, 21 ],
 			"meshUrl" : "//cdn.melown.com/vts/melown2015/terrain/global/viewfinder3/{lod}-{x}-{y}.bin?3",
@@ -927,13 +710,6 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "//cdn.melown.com/mario/proxy/melown2015/surface/melown/viewfinder-1-arc-sec/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "//cdn.melown.com/mario/proxy/melown2015/surface/melown/viewfinder-1-arc-sec/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "//cdn.melown.com/mario/proxy/melown2015/surface/melown/viewfinder-1-arc-sec/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "//cdn.melown.com/mario/proxy/melown2015/surface/melown/viewfinder-1-arc-sec/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : "melown-viewfinder-1-arc-sec",
 			"lodRange" : [ 6, 21 ],
 			"meshUrl" : "//cdn.melown.com/mario/proxy/melown2015/surface/melown/viewfinder-1-arc-sec/{lod}-{x}-{y}.bin?1",
@@ -947,19 +723,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/melown-ev2@2/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/tilesets/melown-ev2@2/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/tilesets/melown-ev2@2/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/tilesets/melown-ev2@2/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : "melown-ev2@2",
 			"lodRange" : [ 16, 21 ],
-			"meshUrl" : "../../../stage/tilesets/melown-ev2@2/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/tilesets/melown-ev2@2/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/tilesets/melown-ev2@2/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/tilesets/melown-ev2@2/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-ev2@2/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-ev2@2/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-ev2@2/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-ev2@2/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 17480, 10957 ],
@@ -967,19 +736,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/esri-montreal/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/tilesets/esri-montreal/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/tilesets/esri-montreal/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/tilesets/esri-montreal/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : "esri-montreal",
 			"lodRange" : [ 13, 21 ],
-			"meshUrl" : "../../../stage/tilesets/esri-montreal/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/tilesets/esri-montreal/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/tilesets/esri-montreal/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/tilesets/esri-montreal/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/esri-montreal/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/esri-montreal/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/esri-montreal/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/esri-montreal/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 1210, 1464 ],
@@ -987,19 +749,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : "melown-cities-cz@3",
 			"lodRange" : [ 15, 21 ],
-			"meshUrl" : "../../../stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-cities-cz@3/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 8753, 5486 ],
@@ -1007,19 +762,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}.credits?0",
-				"maskUrl" : "../../../stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}.mask?0",
-				"metaUrl" : "../../../stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}.2dmeta?0",
-				"orthoUrl" : "../../../stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}-{sub}.ortho?0"
-			},
 			"id" : "san-diego-sample@1",
 			"lodRange" : [ 15, 22 ],
-			"meshUrl" : "../../../stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}.bin?0",
-			"metaUrl" : "../../../stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}.meta?0",
-			"navUrl" : "../../../stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}.nav?0",
-			"textureUrl" : "../../../stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}-{sub}.jpg?0",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}.bin?0",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}.meta?0",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}.nav?0",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/san-diego-sample@1/{lod}-{x}-{y}-{sub}.jpg?0",
 			"tileRange" : 
 			[
 				[ 2859, 6614 ],
@@ -1027,19 +775,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/melown-landmarks/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/tilesets/melown-landmarks/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/tilesets/melown-landmarks/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/tilesets/melown-landmarks/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : "melown-landmarks",
 			"lodRange" : [ 16, 24 ],
-			"meshUrl" : "../../../stage/tilesets/melown-landmarks/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/tilesets/melown-landmarks/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/tilesets/melown-landmarks/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/tilesets/melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-landmarks/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-landmarks/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-landmarks/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-landmarks/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 17646, 10980 ],
@@ -1047,19 +788,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : "obec-tetin-obec-tetin",
 			"lodRange" : [ 18, 22 ],
-			"meshUrl" : "../../../stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/obec-tetin-obec-tetin/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 70666, 44478 ],
@@ -1067,19 +801,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : "melown-benatky-nad-jizerou",
 			"lodRange" : [ 18, 22 ],
-			"meshUrl" : "../../../stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-benatky-nad-jizerou/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 70930, 44284 ],
@@ -1087,19 +814,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/melown-imst/{lod}-{x}-{y}.credits?2",
-				"maskUrl" : "../../../stage/tilesets/melown-imst/{lod}-{x}-{y}.mask?2",
-				"metaUrl" : "../../../stage/tilesets/melown-imst/{lod}-{x}-{y}.2dmeta?2",
-				"orthoUrl" : "../../../stage/tilesets/melown-imst/{lod}-{x}-{y}-{sub}.ortho?2"
-			},
 			"id" : "melown-imst",
 			"lodRange" : [ 15, 22 ],
-			"meshUrl" : "../../../stage/tilesets/melown-imst/{lod}-{x}-{y}.bin?2",
-			"metaUrl" : "../../../stage/tilesets/melown-imst/{lod}-{x}-{y}.meta?2",
-			"navUrl" : "../../../stage/tilesets/melown-imst/{lod}-{x}-{y}.nav?2",
-			"textureUrl" : "../../../stage/tilesets/melown-imst/{lod}-{x}-{y}-{sub}.jpg?2",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-imst/{lod}-{x}-{y}.bin?2",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-imst/{lod}-{x}-{y}.meta?2",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-imst/{lod}-{x}-{y}.nav?2",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-imst/{lod}-{x}-{y}-{sub}.jpg?2",
 			"tileRange" : 
 			[
 				[ 8680, 5745 ],
@@ -1107,19 +827,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/melown-jerusalem/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/tilesets/melown-jerusalem/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/tilesets/melown-jerusalem/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/tilesets/melown-jerusalem/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : "melown-jerusalem",
 			"lodRange" : [ 18, 23 ],
-			"meshUrl" : "../../../stage/tilesets/melown-jerusalem/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/tilesets/melown-jerusalem/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/tilesets/melown-jerusalem/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/tilesets/melown-jerusalem/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-jerusalem/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-jerusalem/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-jerusalem/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-jerusalem/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 78360, 53319 ],
@@ -1127,19 +840,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/melown-treasure-island/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/tilesets/melown-treasure-island/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/tilesets/melown-treasure-island/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/tilesets/melown-treasure-island/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : "melown-treasure-island",
 			"lodRange" : [ 18, 23 ],
-			"meshUrl" : "../../../stage/tilesets/melown-treasure-island/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/tilesets/melown-treasure-island/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/tilesets/melown-treasure-island/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/tilesets/melown-treasure-island/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-treasure-island/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-treasure-island/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-treasure-island/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-treasure-island/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 20978, 50635 ],
@@ -1147,19 +853,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : "melown-cesky-krumlov@2",
 			"lodRange" : [ 16, 23 ],
-			"meshUrl" : "../../../stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/melown-cesky-krumlov@2/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 17685, 11275 ],
@@ -1167,19 +866,12 @@
 			]
 		},
 		{
-			"2d" : 
-			{
-				"creditsUrl" : "../../../stage/tilesets/seattle-compressed/{lod}-{x}-{y}.credits?1",
-				"maskUrl" : "../../../stage/tilesets/seattle-compressed/{lod}-{x}-{y}.mask?1",
-				"metaUrl" : "../../../stage/tilesets/seattle-compressed/{lod}-{x}-{y}.2dmeta?1",
-				"orthoUrl" : "../../../stage/tilesets/seattle-compressed/{lod}-{x}-{y}-{sub}.ortho?1"
-			},
 			"id" : "seattle-compressed",
 			"lodRange" : [ 13, 23 ],
-			"meshUrl" : "../../../stage/tilesets/seattle-compressed/{lod}-{x}-{y}.bin?1",
-			"metaUrl" : "../../../stage/tilesets/seattle-compressed/{lod}-{x}-{y}.meta?1",
-			"navUrl" : "../../../stage/tilesets/seattle-compressed/{lod}-{x}-{y}.nav?1",
-			"textureUrl" : "../../../stage/tilesets/seattle-compressed/{lod}-{x}-{y}-{sub}.jpg?1",
+			"meshUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/seattle-compressed/{lod}-{x}-{y}.bin?1",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/seattle-compressed/{lod}-{x}-{y}.meta?1",
+			"navUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/seattle-compressed/{lod}-{x}-{y}.nav?1",
+			"textureUrl" : "//cdn.melown.com/mario/store/melown2015/stage/tilesets/seattle-compressed/{lod}-{x}-{y}-{sub}.jpg?1",
 			"tileRange" : 
 			[
 				[ 655, 1430 ],
@@ -1249,8 +941,8 @@
 				"seattle-compressed"
 			],
 			"lodRange" : [ 1, 24 ],
-			"mapping" : "../../../stage/vs/intergeo2017-116-cities/tileset.map",
-			"metaUrl" : "../../../stage/vs/intergeo2017-116-cities/{lod}-{x}-{y}.meta?0",
+			"mapping" : "//cdn.melown.com/mario/store/melown2015/stage/vs/intergeo2017-116-cities/tileset.map",
+			"metaUrl" : "//cdn.melown.com/mario/store/melown2015/stage/vs/intergeo2017-116-cities/{lod}-{x}-{y}.meta?0",
 			"tileRange" : 
 			[
 				[ 0, 0 ],
