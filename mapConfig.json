@@ -26,7 +26,7 @@
 		"basemap-at-ophoto" : "//cdn.melown.com/mario/proxy/melown2015/tms/melown/basemap-at-ophoto/boundlayer.json",
 		"bmng08-world" : "//cdn.melown.com/mario/proxy/melown2015/tms/melown/bmng08-world/boundlayer.json",
 		"lvg-by-dop80" : "//cdn.melown.com/mario/proxy/melown2015/tms/melown/lvg-by-dop80/boundlayer.json",
-		"mapycz-ophoto-cz" : "//cdn.melown.com/mario/proxy/melown2015/tms/melown/mapycz-ophoto-cz/boundlayer.json",
+		"mapycz-ophoto-cz" : "//cdn.melown.com/mario/proxy/melown2015/tms/melown/sentinel2-cloudless-eox/boundlayer.json",
 		"sentinel2-cloudless-eox" : "//cdn.melown.com/mario/proxy/melown2015/tms/melown/sentinel2-cloudless-eox/boundlayer.json"
 	},
 	"browserOptions" : 
